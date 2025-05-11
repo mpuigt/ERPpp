@@ -8,7 +8,7 @@ ERPpp means ERP for the small ones ("ERP pour les petits" in French) and was wri
 ## What is provided?
 ERPpp is using Microsoft Access. Two versions are provided, i.e.,
 * [A version with Access Runtime which can be used without Access license](/tree/main/ERPpp109-10b);
-* The sources to be run on any Windows computer with Acess license (tested on Access 2007 and 2010)
+* ~~The sources to be run on any Windows computer with Access license (tested on Access 2007 and 2010)~~ (hopefully soon!) 
 
 Moreover, a [userguide (written in French)](/blob/main/ERPpp manuel.pdf) is also provided
 
